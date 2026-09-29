@@ -74,7 +74,7 @@ AirPlay capabilities for your Sonos (and UPnP) devices.
 
 ### &#10003; [AppDaemon][addon-appdaemon]
 
-![Latest Version][appdaemon-version-shield]
+![Latest Version][appdaemon-version-shield].
 
 Python Apps and Dashboard using AppDaemon 4.x for Home Assistant
 
